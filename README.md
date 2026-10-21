@@ -4,9 +4,11 @@
 
 **Live:** [adoisapp.online](https://adoisapp.online)
 
-| Login | About |
+| Monthly summary | About |
 |---|---|
-| ![Login](screenshots/login.png) | ![About](screenshots/about.png) |
+| ![Summary](screenshots/summary.png) | ![About](screenshots/about.png) |
+
+*Names and amounts in the screenshot are placeholders.*
 
 ## Features
 
